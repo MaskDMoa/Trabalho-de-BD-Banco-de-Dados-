@@ -1,4 +1,4 @@
-# Trabalho de BD (Banco de dados
+# Trabalho de BD (Banco de dados)
 ---
 
 ## Entidades
