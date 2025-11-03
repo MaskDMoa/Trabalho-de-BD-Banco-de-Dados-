@@ -16,7 +16,7 @@
 
 4. **Empréstimo**  
    - Registra os livros emprestados, a quem foram emprestados e por quanto tempo.  
-   - Atributos: `id_emprestimo`, `data_emprestimo`, `data_devolucao`, `status`.
+   - Atributos: `id_emprestimo`, `data_emprestimo`, `data_devolucao`, `status_livro`.
 
 5. **Reserva**  
    - Registra quando um aluno ou professor reserva um livro que está emprestado.  
